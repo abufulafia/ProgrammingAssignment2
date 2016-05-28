@@ -1,4 +1,4 @@
-## the Function makeCacheMatrix creates a ##"special" matrix object. 
+## the Function makeCacheMatrix creates a "special" matrix object. 
 
 makeCacheMatrix <- function(x = matrix()) {
   inv_x <- NULL
